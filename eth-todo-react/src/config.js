@@ -1,0 +1,2 @@
+export const TaskContractAddress = "0x3942161c6Fb2018515c906846Bdd92CA82F24fEB"
+export const ethPrivkey="5088db5e862b28d5177caefe51d418a1fcff695122febedcb9e6be03f18d6744"
